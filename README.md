@@ -14,9 +14,9 @@ In this repository, you'll find a collection of data analysis projects that refl
 ## Table of Contents
   - [About me]()
   - [Projects]
-    - SBA loans analysis during pandemic
-    - Cohort Analysis non-store online retail
-    - Bikeshare company analysis to improve marketing strategies
+    - [SBA loans analysis during the pandemic](https://github.com/felipejordan95/DataAnalysisPortfolio#cohort-analysis-non-store-online-retail)
+    - [Cohort Analysis non-store online retail]()
+    - [Bikeshare company analysis to improve marketing strategies]()
     - Tableau --> [go to Tableau Dashboards](https://public.tableau.com/app/profile/felipe.jordan)
 
 ## Projects
@@ -135,4 +135,5 @@ Majors: Data cleaning, analysis & visualization (spreadsheets, SQL, R programmin
 ## Contact 
 - LinkedIn: [Felipe Jordan](https://www.linkedin.com/in/felipejordan/)
 - Email: felipejordan95@gmail.com
+- Resume: [Felipe Jordan Resume](https://github.com/felipejordan95/DataAnalysisPortfolio/blob/main/Felipe_Jordan_Resume.pdf)
     
