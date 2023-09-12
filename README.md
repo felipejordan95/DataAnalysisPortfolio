@@ -18,11 +18,14 @@ In this repository, you'll find a collection of data analysis projects that refl
     - [Cohort Analysis non-store online retail](#project-2-cohort-analysis)
     - [Bikeshare company analysis to improve marketing strategies](#project-3-bikeshare-analysis)
     - Tableau --> [go to Tableau Dashboards](https://public.tableau.com/app/profile/felipe.jordan)
+  - [Education](#education)
+  - [Contact](#contact)
 
 ## Projects
+<a name="project-1-sba-loans-analysis"></a>
 ### 📂 1. SBA loans analysis during the pandemic (2020-2021)
 SQL Data Analysis | [**Full Documentation**](https://github.com/felipejordan95/SQL-for-Data-Analysis/blob/main/SBA_Loans_Analysis.sql) | [**Dashboard**](https://public.tableau.com/app/profile/felipe.jordan/viz/SBALoansAnalysis/Dash2)
-<a name="project-1-sba-loans-analysis"></a>
+
 📌 **Introduction**
 The Small Business Administration (SBA) is a vital U.S. government agency tasked with supporting and assisting small businesses, particularly during challenging times such as the COVID-19 pandemic. This project delves into the extensive dataset of SBA loans issued during 2020-2021 to identify the industries that received a significant injection of funds. The goal is to gain insights into the economic impact of these loans on different sectors.
 
@@ -49,9 +52,10 @@ The infusion of a substantial amount of capital into the U.S. economy through SB
 
 
 ---
+<a name="project-2-cohort-analysis"></a>
 ### 📂 2. Cohort Analysis non-store online retail
 Customer Cohort Analysis | [**Full Documentation**](https://github.com/felipejordan95/SQL-for-Data-Analysis/blob/main/Cohort_Analysis.sql) | [**Dashboard**](https://public.tableau.com/app/profile/felipe.jordan/viz/CohortRetentionDash_16924073492000/CohortRetentionDash)
-<a name="project-2-cohort-analysis"></a>
+
 📌 **Introduction:** 
 This project focuses on conducting a comprehensive cohort analysis of customer behavior for a UK-based and registered non-store online retail company. The company specializes in selling unique all-occasion gifts and caters to a customer base that includes many wholesalers. The dataset used in this analysis encompasses all transactions that occurred between 01/12/2010 and 09/12/2011.
 
@@ -81,9 +85,10 @@ By applying cohort analysis to this transactional dataset, we aim to uncover val
 💻 **Skills** — Cohort Analysis, Data Cleaning and Manipulation, Exploratory Data Analysis, Data Visualization
 
 ---
+<a name="project-3-bikeshare-analysis"></a>
 ### 📂 3. Bikeshare company analysis to improve marketing strategies
 R Programming | [**Full Documentation**](https://github.com/felipejordan95/R-Projects/blob/main/Cyclistic_Case_Study.Rmd)| [**Report**](https://github.com/felipejordan95/R-Projects/blob/main/Cyclistic_Case_Study.pdf)
-<a name="project-3-bikeshare-analysis"></a>
+
 📌 **Introduction:** 
 This case study revolves around Cyclistic, a prominent bike-share company in Chicago. The director of Marketing at Cyclistic recognizes that the future success of the company hinges on maximizing the number of annual memberships. To achieve this, the marketing team aims to gain insights into the differences in bike usage patterns between casual riders and annual members. Armed with these insights, the marketing department plans to devise a new strategy to convert casual riders into annual members.
 
@@ -123,7 +128,7 @@ The analysis has revealed significant insights, including:
 💻 **Skills** — Classification, Data Cleaning and Manipulation, Exploratory Data Analysis, Correlation Analysis, Data VisualizationModeling, Model Evaluation
 
 ---
-
+<a name="education"></a>
 ## Education
 ### Degrees
 BACHELOR OF ENVIRONMENTAL ENGINEERING – EPN – Quito, Ecuador 	September 2019
@@ -132,7 +137,7 @@ Majors: Statistical Analysis, Technical Proficiency, Critical Thinking
 ### Certificates
 GOOGLE DATA ANALYTICS PROFESSIONAL CERTIFICATE – Google 	September 2023
 Majors: Data cleaning, analysis & visualization (spreadsheets, SQL, R programming, Tableau)
-
+<a name="contact"></a>
 ## Contact 
 - LinkedIn: [Felipe Jordan](https://www.linkedin.com/in/felipejordan/)
 - Email: felipejordan95@gmail.com
