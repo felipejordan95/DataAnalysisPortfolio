@@ -14,7 +14,7 @@ In this repository, you'll find a collection of data analysis projects that refl
 ## Table of Contents
   - [About me]()
   - [Projects]
-    - [SBA loans analysis during the pandemic](https://github.com/felipejordan95/DataAnalysisPortfolio#cohort-analysis-non-store-online-retail)
+    - [SBA loans analysis during the pandemic](#project-1-data-analysis-of-sales)
     - [Cohort Analysis non-store online retail]()
     - [Bikeshare company analysis to improve marketing strategies]()
     - Tableau --> [go to Tableau Dashboards](https://public.tableau.com/app/profile/felipe.jordan)
@@ -46,6 +46,7 @@ The infusion of a substantial amount of capital into the U.S. economy through SB
 
 ⚙️ **Tools** — SQL Server, Tableau
 💻 **Skills** — Data Cleaning and Manipulation, Exploratory Data Analysis, Data Visualization
+<a name="project-1-data-analysis-of-sales"></a>
 
 ---
 ### 📂 2. Cohort Analysis non-store online retail
